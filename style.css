@@ -1,0 +1,32 @@
+h1
+{
+border:2px solid powderblue;padding:10px;padding:10px;
+background-color:rgb(210,201,204);
+color:red;
+font-size:250%;
+}
+body
+{
+background-color:rgb(55,0,2);
+
+
+}
+p
+{
+border:2px solid powderblack;padding:2px;padding:3px;
+color:#1970BC;
+background-color:rgb(51,0,102) ;
+font-size:10px;
+}
+label
+{
+color:white;
+margin-right: 50px
+
+}
+
+input{
+border:2.5px solid white;
+background:rgb(51,0,102) ;
+margin-bottom:20px;
+} 
